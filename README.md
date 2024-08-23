@@ -1,14 +1,23 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=resul4bdul&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=resul4bdul&color=blueviolet)
+# 💫 WHO AM İ ?
+Hello everyone, I'm resul4bdul. I am a computer engineering student. I am interested in helpdesk and network engineering. And besides, I write programs with python as a hobby.
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
+
+## 📊 Github Statistics
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=resul4bdul&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resul4bdul&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+[![Baxış Sayı](https://visitcount.itsvg.in/api?id=resul4bdul&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Contact Me
+[![İnstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/resul4bdul/])  
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white&logoWidth=40&style=for-the-badge)](https://t.me/resul4bdul)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resul4bdul@gmail.com)
+
+
+
+
+""
+
