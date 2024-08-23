@@ -9,12 +9,11 @@ Hello everyone, I'm resul4bdul. I am a computer engineering student. I am intere
 
 ---
 
-[![Baxış Sayı](https://visitcount.itsvg.in/api?id=resul4bdul&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=resul4bdul&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Contact Me
-[![İnstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/resul4bdul])  
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white&logoWidth=40&style=for-the-badge)](https://t.me/resul4bdul)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resul4bdul@gmail.com)
+
 
 
 
